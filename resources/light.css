@@ -1,0 +1,10 @@
+.root {
+    -fx-base: #ffffff;
+    -fx-background: #f4f4f4;
+    -fx-control-inner-background: white;
+    -fx-accent: #0066cc;
+}
+
+.text-field, .text-area {
+    -fx-text-fill: black;
+}

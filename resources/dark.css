@@ -1,0 +1,16 @@
+.root {
+    -fx-base: #212121;
+    -fx-background: #121212;
+    -fx-control-inner-background: #2d2d2d;
+    -fx-control-inner-background-alt: #3d3d3d;
+    -fx-accent: #bb86fc;
+}
+
+.label, .text {
+    -fx-text-fill: #e0e0e0;
+}
+
+.text-field, .text-area, .html-editor {
+    -fx-text-fill: #e0e0e0;
+    -fx-control-inner-background: #333333;
+}
